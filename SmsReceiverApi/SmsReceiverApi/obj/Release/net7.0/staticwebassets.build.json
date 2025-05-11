@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1Bpb4xF7FHPQPLOu9Jt8ugjNEYSvv9uGARW13mNmrFo=",
+  "Source": "SmsReceiverApi",
+  "BasePath": "_content/SmsReceiverApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

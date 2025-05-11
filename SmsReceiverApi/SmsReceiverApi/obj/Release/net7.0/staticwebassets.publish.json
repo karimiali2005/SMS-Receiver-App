@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MRzWh8PdcMXKLGOj3kD0ToPVe951wpWmaJ3yjQvg+Dw=",
+  "Source": "SmsReceiverApi",
+  "BasePath": "_content/SmsReceiverApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
